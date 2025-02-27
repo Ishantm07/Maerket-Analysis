@@ -1,2 +1,3 @@
-# Maerket-Analysis
+# Market-Analysis
 The MSD Analysis highlights smartphone sales trends in Haryana, with Vivo leading in sales volume and revenue, followed by Samsung and Oppo. Price segmentation shows shifting consumer preferences, especially in mid-range and premium segments. Evolving market dynamics are influencing inventory and pricing strategies for brands.
+This repository contains an MSD Analysis report focusing on smartphone sales trends in Haryana from October 14th to November 17th, 2024. The dataset includes brand-wise sales volume, revenue contributions, price segmentation trends, and weekly performance metrics. Key findings highlight market share shifts, pricing strategies, and consumer buying patterns. The analysis is valuable for business intelligence, competitive benchmarking, and sales strategy optimization.
